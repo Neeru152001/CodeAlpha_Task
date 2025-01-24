@@ -22,15 +22,15 @@ This project is a voice-activated assistant built in Python. It can recognize yo
 Prerequisites: <br>
 . Python 3.8 or higher <br>
 . Required Python libraries: <br>
-  1.> pyttsx3 <br>
-  2.> speech_recognition <br>
-  3.> gtts <br>
-  4.> playsound <br>
-  5.> wikipedia <br>
-  6.> winshell <br>
-  7.> pyjokes <br>
-  8.> requests <br>
-  9.> wolframalpha <br>
+    1.> pyttsx3 <br>
+    2.> speech_recognition <br>
+    3.> gtts <br>
+    4.> playsound <br>
+    5.> wikipedia <br>
+    6.> winshell <br>
+    7.> pyjokes <br>
+    8.> requests <br>
+    9.> wolframalpha <br>
 
 # Installation <br>
 1.> Clone this repository: <br>
